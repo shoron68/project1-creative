@@ -1,0 +1,16 @@
+#footer{
+    padding: 128px;
+    background-color: #5956e854;
+}
+.footer_body{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.box1 p{
+    width: 300px;
+}
+.box2 a{
+    display: block;
+    padding: 5px 0;
+}

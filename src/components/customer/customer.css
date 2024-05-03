@@ -1,0 +1,15 @@
+#customer{
+    padding: 128px 0;
+}
+.custom_head h3{
+    width: 603px;
+    font-size: 40px;
+    color: #181818;
+    padding-bottom: 20px;
+}
+.custom_head p{
+    width: 603px;
+    font-size: 16x;
+    color: #1818187c;
+    padding-bottom: 50px;
+}

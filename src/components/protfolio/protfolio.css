@@ -1,0 +1,44 @@
+#protfolio{
+padding: 128px 0;
+}
+.prt_header{
+    text-align: center;
+}
+.prt_header h3{
+    font-size:40px;
+    color: #181818;
+    padding-bottom: 20px;
+}
+.prt_header p{
+    width:542px;
+    font-size:16px;
+    color: #181818a6;
+    padding-bottom: 30px;
+    margin: 0 auto;
+}
+.prt_menu{
+    padding: 20px 30px ;
+    background-color: #5956e82f;
+    margin: 0 auto;
+    width: 800px ;
+    margin-bottom: 40px;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+.prt_menu a{
+    padding: 0 20px;
+    color: #181818;
+    font-size:20px;
+}
+.prt_img1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0px;
+}
+.prt_img1 img{
+    width:300px;
+}

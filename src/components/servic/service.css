@@ -1,0 +1,49 @@
+#service{
+    padding: 128px 0;
+}
+.service_head{
+    text-align: center;
+}
+.service_head h2{
+    font-size: 40px;
+    color: #181818;
+}
+.service_head p{
+    width: 542px;
+    padding-top: 30px;
+    font-size: 16px;
+    color: #181818b7;
+    padding-bottom: 50px;
+    margin: 0 auto;
+}
+.service_body{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 35px;
+}
+.box{
+    border: 2px solid #1818182f;
+    width: 420px;
+}
+.box_inner{
+    padding: 63px 44px ;
+}
+.box_inner img{
+    padding-bottom: 20px;
+}
+.box_inner h4{
+    font-size: 25px;
+    padding-bottom:20px;
+    color: #181818;
+}
+.box_inner p{
+    font-size: 16px;
+    line-height: 27px;
+    color: #181818b0;
+}
+
+
+.service_body2{
+    display: flex;
+    justify-content: space-between;
+}

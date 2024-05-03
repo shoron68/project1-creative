@@ -1,0 +1,13 @@
+.nav_main{
+    display: flex;
+    justify-content: space-between;
+    height: 80px;
+    line-height: 80px;
+    background-color: #fff;
+}
+.nav_left img{
+    width: 100%;
+}
+.nav_menu a{
+    padding-right: 50px;
+}
